@@ -1,0 +1,15 @@
+[ignore]
+.*/build/.*
+.*/public/.*
+.*/node_modules/.*
+i18next-parser.config\.js
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
